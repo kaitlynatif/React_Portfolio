@@ -27,7 +27,7 @@ function About() {
                   Insert text here.
                 </Card.Text>
                 <Card.Text>
-                  Inser text here.
+                  Insert text here.
                 </Card.Text>
               </Card.Body>
             </Card>

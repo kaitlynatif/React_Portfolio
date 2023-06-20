@@ -17,6 +17,7 @@ function Header() {
             <h1 className="text-white" style={{ fontSize: "70px" }}>
               <FontAwesomeIcon
                 icon={faMugSaucer}
+                flip="horizontal"
                 className="fa-solid fa-mug-saucer"
                 size="xl"
                 style={{ color: "#white" }}
@@ -30,7 +31,6 @@ function Header() {
               </Link>
               <FontAwesomeIcon
                 icon={faMugSaucer}
-                flip="horizontal"
                 className="fa-solid fa-mug-saucer"
                 size="xl"
                 style={{ color: "#white" }}

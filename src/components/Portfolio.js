@@ -1,6 +1,6 @@
 import React from "react";
 import Project from "./Project";
-import WorkDayScheduler from "../images/WorkDayPlanner.png";
+import WorkDayScheduler from "../images/WorkDayScheduler.png";
 import JavaScriptQuiz from "../images/JavaScriptQuiz.png";
 import Weather from "../images/Weather.png";
 import TechBlog from "../images/TechBlog.png";
