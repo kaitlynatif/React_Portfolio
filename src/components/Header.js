@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Navigation from "./Navigation";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBracketCurly } from "@fortawesome/free-solid-svg-icons";
+import { faMugSaucer } from "@fortawesome/free-solid-svg-icons";
 import { Container, Row, Col } from "react-bootstrap";
 import "../style/Header.css";
 
@@ -16,8 +16,8 @@ function Header() {
           <Col className="pb-0">
             <h1 className="text-white" style={{ fontSize: "70px" }}>
               <FontAwesomeIcon
-                icon={faBracketCurly}
-                className="fa-solid fa-bracket-curly"
+                icon={faMugSaucer}
+                className="fa-solid fa-mug-saucer"
                 size="xl"
                 style={{ color: "#white" }}
               />
@@ -29,9 +29,9 @@ function Header() {
                 Kaitlyn Atif
               </Link>
               <FontAwesomeIcon
-                icon={faBracketCurly}
+                icon={faMugSaucer}
                 flip="horizontal"
-                className="fa-solid fa-bracket-curly"
+                className="fa-solid fa-mug-saucer"
                 size="xl"
                 style={{ color: "#white" }}
               />

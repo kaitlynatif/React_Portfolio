@@ -1,10 +1,10 @@
 import React from "react";
 import Project from "./Project";
-import WorkDayScheduler from "../images/WorkDayPlanner.PNG";
-import JavaScriptQuiz from "../images/JavaScriptQuiz.PNG";
-import Weather from "../images/Weather.PNG";
-import TechBlog from "../images/TechBlog.PNG";
-import Password from "../images/Password.PNG";
+import WorkDayScheduler from "../images/WorkDayPlanner.png";
+import JavaScriptQuiz from "../images/JavaScriptQuiz.png";
+import Weather from "../images/Weather.png";
+import TechBlog from "../images/TechBlog.png";
+import Password from "../images/Password.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../style/Portfolio.css";
 
