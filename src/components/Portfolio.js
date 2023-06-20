@@ -1,10 +1,10 @@
 import React from "react";
 import Project from "./Project";
-import WorkDayPlanner from "../images/WorkDayPlanner.GIF";
-import WebAPI from "../images/WebAPI_.GIF";
-import Weather from "../images/Weather.GIF";
-import TechBlog from "../images/TechBlog.GIF";
-import StackDev from "../images/StackDev.JPEG";
+import WorkDayScheduler from "../images/WorkDayPlanner.PNG";
+import JavaScriptQuiz from "../images/JavaScriptQuiz.PNG";
+import Weather from "../images/Weather.PNG";
+import TechBlog from "../images/TechBlog.PNG";
+import Password from "../images/Password.PNG";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../style/Portfolio.css";
 
@@ -22,45 +22,45 @@ function Portfolio() {
               description: "CMS-Style Model View Controller Blog",
               imgSrc: TechBlog,
               deployedLink:
-                "...",
+                "https://obscure-beach-63742.herokuapp.com",
               githubLink:
                 "https://github.com/kaitlynatif/Tech_Blog",
             },
             {
-              title: "Stack Dev Portfolio",
-              description: "Built On Advanced CSS",
-              imgSrc: StackDev,
+              title: "Random Password Generator",
+              description: "...",
+              imgSrc: Password,
               deployedLink:
-                "...",
+                "https://kaitlynatif.github.io/Random_Password_Generator",
               githubLink:
-                "https://github.com/kaitlynatif",
+                "https://github.com/kaitlynatif/Random_Password_Generator",
             },
             {
-              title: "Online Workday Planner",
-              description: "Third-Party API Sceduler ft. Day.js",
-              imgSrc: WorkDayPlanner,
+              title: "Online Workday Scheduler",
+              description: "Third-Party API Scheduler ft. Day.js",
+              imgSrc: WorkDayScheduler,
               deployedLink:
-                "...",
+                "https://kaitlynatif.github.io/WorkDay_Scheduler",
               githubLink:
-                "https://github.com/kaitlynatif",
+                "https://github.com/kaitlynatif/WorkDay_Scheduler",
             },
             {
-              title: "Java Script: WEB API Quiz",
-              description: "Dynamically updated HTML & CSS Web API quiz game.",
-              imgSrc: WebAPI,
+              title: "Java Script Quiz",
+              description: "Dynamically updated HTML & CSS JavaScript quiz game.",
+              imgSrc: JavaScriptQuiz,
               deployedLink:
-                "...",
+                "https://kaitlynatif.github.io/Coding_Quiz",
               githubLink:
-                "https://github.com/kaitlynatif",
+                "https://github.com/kaitlynatif/Coding_Quiz",
             },
             {
               title: "Weather Dashboard",
-              description: "Server-Side APIs: (5) Day Weather Dashboard.",
+              description: "Server-Side APIs: Five Day Weather Dashboard.",
               imgSrc: Weather,
               deployedLink:
-                "...",
+                "https://kaitlynatif.github.io/Weather_Forecast_Dashboard",
               githubLink:
-                "https://github.com/kaitlynatif",
+                "https://github.com/kaitlynatif/Weather_Forecast_Dashboard",
             },
           ].map((project, index) => (
             // Div container for each project
