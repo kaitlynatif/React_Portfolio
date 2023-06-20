@@ -68,14 +68,15 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 4. Fill out the contact form in the Contact section.
 5. Download the developer's resume in the Resume section.
 
-## Deployed GitHub-Pages Application Link:
-[Deployed GitHub-Pages Application Link:](https://kaitlynatif.github.io/React_Portfolio/)
+## Deployed GitHub-Pages Application Link
+[Deployed GitHub-Pages Application Link](https://kaitlynatif.github.io/React_Portfolio/)
 
-## GitHub Repository:
-[GitHub Repository:](https://github.com/kaitlynatif/React_Portfolio)
+## GitHub Repository
+[GitHub Repository](https://github.com/kaitlynatif/React_Portfolio)
 
 
 ## React Portfolio Screenshots:
+
 ### Figure 1. Deployed Application Screenshot.
 ![](./src/images/)
 
