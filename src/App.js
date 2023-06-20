@@ -37,9 +37,7 @@ function App() {
 // Render the Footer component
 export default App;
 
-// Please note: line: 25, 20, and 21 have been saved for future reference
-
-// Please, reference the README.md for further insight
+// Please reference the README.md for further insight
 // HowToCreateReact.md and Resume.PDF are located in the documentation folder
 // Thank you for viewing!
 // Kaitlyn Atif 😊

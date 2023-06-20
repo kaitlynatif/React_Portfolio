@@ -6,6 +6,14 @@
   width: 100%;
 }
 
+.bg-dark {
+  background-attachment: fixed;
+  background-image: linear-gradient(45deg, #F77CEC 25%, #F79C59 70%);
+  background-position: 0% 0%;
+  background-repeat: repeat;
+  background-size: auto;
+  }
+
   .social-icons-wrapper {
     margin-top: 1rem; /* Add margin-top to the social-icons-wrapper */
     padding-bottom: 0; /* Remove padding-bottom from the social-icons-wrapper */

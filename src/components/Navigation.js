@@ -13,7 +13,6 @@ const Navigation = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              {/* <Nav.Link as={Link} to="7homas7he7ank-react-portfolio/home" className="fs-5">Home</Nav.Link> */}
               <Nav.Link as={Link} to="/React_Portfolio/about" className="fs-5 nav-link-highlight shadow-lg">About Me</Nav.Link>
               <Nav.Link as={Link} to="/React_Portfolio/portfolio" className="fs-5 nav-link-highlight shadow-lg ">Portfolio</Nav.Link>
               <Nav.Link as={Link} to="/React_Portfolio/contact" className="fs-5 nav-link-highlight shadow-lg ">Contact</Nav.Link>
