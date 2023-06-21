@@ -51,7 +51,7 @@ function Resume() {
             </div>
           </Col>
         </Row>
-        <Row>
+        {/* <Row>
           <Col>
             <h3>Work Experience</h3>
             <hr className="star-secondary" />
@@ -76,7 +76,7 @@ function Resume() {
               </p>
             </div>
           </Col>
-        </Row>
+        </Row> */}
         <Row>
           <Col>
             <h3>Proficiencies</h3>

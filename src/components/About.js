@@ -24,10 +24,15 @@ function About() {
                   About Kaitlyn Atif
                 </Card.Title>
                 <Card.Text>
-                  Insert text here.
+                Protein Biochemist with nine years of laboratory bench experience and over five years of experience 
+                in IgG therapeutics—specifically the downstream stages of the mAb (monoclonal antibody) drug development process. 
+                I have a strong foundation in experiment design, process development, data analysis, troubleshooting, and working 
+                in team-oriented and collaborative environments.
                 </Card.Text>
                 <Card.Text>
-                  Insert text here.
+                Currently, I am working toward a certificate in Full Stack Development from the Georgia Institute of Technology to 
+                add more technical expertise alongside my Bachelor of Science in Biochemistry. I have demonstrated skills in 
+                JavaScript, HTML, CSS, responsive web design, MERN Stack, and more.
                 </Card.Text>
               </Card.Body>
             </Card>
