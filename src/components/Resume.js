@@ -46,10 +46,7 @@ function Resume() {
               <h4>Bachelor of Science in Biochemistry</h4>
               <h5>California State University East Bay, 2013</h5>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-                cursus bibendum magna, vitae dapibus felis ultricies ut. Sed ac
-                odio eget est convallis ullamcorper. Duis bibendum vestibulum
-                risus, non convallis odio aliquam eu.
+              Relevant coursework: Calculus (Differential, Integral, Vector, Multivariate); Biostatistics; Linear Algebra; Computer Science (Intro to C++ Programming); General Chemistry; General Physics (Newtonian Mechanics, Waves & Optics, Thermodynamics, Electromagnetism); General Biology (Molecular, Plant, Animal); Quantitative Chemical Analysis; Organic Chemistry; Physical Chemistry (Thermodynamics, Quantum Mechanics, Statistical Mechanics); General Biochemistry (Biomolecules, Metabolism, Genetics); Genetics.
               </p>
             </div>
           </Col>

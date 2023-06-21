@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "3bcd63fb92ad6d45f708",
-    "url": "/React_Portfolio/static/css/main.8e003634.chunk.css"
+    "revision": "153d5ae45ff43d5ea37f",
+    "url": "/React_Portfolio/static/css/main.aafc6e85.chunk.css"
   },
   {
-    "revision": "3bcd63fb92ad6d45f708",
-    "url": "/React_Portfolio/static/js/main.65ea87c5.chunk.js"
+    "revision": "153d5ae45ff43d5ea37f",
+    "url": "/React_Portfolio/static/js/main.b8e30d83.chunk.js"
   },
   {
     "revision": "62b34e686dbbee9cedcc",
     "url": "/React_Portfolio/static/js/runtime~main.47646755.js"
   },
   {
-    "revision": "3ff95279627b2a4722e5",
+    "revision": "bde8cda7d4d623ce094a",
     "url": "/React_Portfolio/static/css/2.12a02758.chunk.css"
   },
   {
-    "revision": "3ff95279627b2a4722e5",
-    "url": "/React_Portfolio/static/js/2.6c4f44ba.chunk.js"
+    "revision": "bde8cda7d4d623ce094a",
+    "url": "/React_Portfolio/static/js/2.186615f4.chunk.js"
   },
   {
-    "revision": "bfb527b41657f6a647978e692a743f60",
-    "url": "/React_Portfolio/static/media/kaitlyn-atif-avatar.bfb527b4.png"
+    "revision": "7f68629375a237425434886f1fea3651",
+    "url": "/React_Portfolio/static/media/kaitlyn-atif-avatar.7f686293.png"
   },
   {
     "revision": "0cdde516d2a9baa15d5023635650811d",
@@ -44,11 +44,15 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/media/Password.0cd57c34.png"
   },
   {
+    "revision": "c540ae59a72feb190dd6362f17e1d51e",
+    "url": "/React_Portfolio/static/media/NoteTaker.c540ae59.png"
+  },
+  {
     "revision": "82ab43415fdd111fecd5db54457df8bf",
     "url": "/React_Portfolio/static/media/KaitlynAtifResume.82ab4341.pdf"
   },
   {
-    "revision": "63e9b1114245c3774e23063ea4d5b458",
+    "revision": "894c6151692e963cf75cd542b3c63a52",
     "url": "/React_Portfolio/index.html"
   }
 ];

@@ -5,6 +5,7 @@ import JavaScriptQuiz from "../images/JavaScriptQuiz.png";
 import Weather from "../images/Weather.png";
 import TechBlog from "../images/TechBlog.png";
 import Password from "../images/Password.png";
+import NoteTaker from "../images/NoteTaker.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../style/Portfolio.css";
 
@@ -25,6 +26,15 @@ function Portfolio() {
                 "https://obscure-beach-63742.herokuapp.com",
               githubLink:
                 "https://github.com/kaitlynatif/Tech_Blog",
+            },
+            {
+              title: "Weather Dashboard",
+              description: "Server-Side APIs: Five Day Weather Dashboard.",
+              imgSrc: Weather,
+              deployedLink:
+                "https://kaitlynatif.github.io/Weather_Forecast_Dashboard",
+              githubLink:
+                "https://github.com/kaitlynatif/Weather_Forecast_Dashboard",
             },
             {
               title: "Random Password Generator",
@@ -54,13 +64,13 @@ function Portfolio() {
                 "https://github.com/kaitlynatif/Coding_Quiz",
             },
             {
-              title: "Weather Dashboard",
-              description: "Server-Side APIs: Five Day Weather Dashboard.",
-              imgSrc: Weather,
+              title: "Note Taker",
+              description: "An application that uses an Express.js back end and saves and retrieves note data from a JSON file.",
+              imgSrc: NoteTaker,
               deployedLink:
-                "https://kaitlynatif.github.io/Weather_Forecast_Dashboard",
+                "https://kaitlynatif.github.io/Note_Taker",
               githubLink:
-                "https://github.com/kaitlynatif/Weather_Forecast_Dashboard",
+                "https://github.com/kaitlynatif/Note_Taker",
             },
           ].map((project, index) => (
             // Div container for each project
