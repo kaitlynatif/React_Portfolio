@@ -15,12 +15,12 @@ function Header() {
         <Row className="justify-content-center text-center mb-0">
           <Col className="pb-0">
             <h1 className="text-white" style={{ fontSize: "70px" }}>
-              <FontAwesomeIcon
+              {/* <FontAwesomeIcon
                 icon={faCode}
                 className="fa-solid fa-code"
                 size="xl"
                 style={{ color: "#white" }}
-              />
+              /> */}
               <Link
                 to="/React_Portfolio/"
                 className="text-white text-decoration-none"
@@ -28,12 +28,12 @@ function Header() {
               >
                 Kaitlyn Atif
               </Link>
-              <FontAwesomeIcon
+              {/* <FontAwesomeIcon
                 icon={faCode}
                 className="fa-solid fa-code"
                 size="xl"
                 style={{ color: "#white" }}
-              />
+              /> */}
             </h1>
           </Col>
         </Row>
