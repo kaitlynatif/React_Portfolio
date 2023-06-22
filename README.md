@@ -78,7 +78,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## React Portfolio Screenshots:
 
 ### Figure 1. Deployed Application Screenshot.
-![](./src/images/)
+![](./src/images/ReactPortfolio.png)
 
 ## Installation:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
