@@ -14,7 +14,7 @@
 - [Author](#Author)
 
 ## Description
-The GitHub-Pages launched application showcases Kaitlyn Atif's React Portfolio, which contains (6) highlighted projects of his 12-week Full-Stack Developer boot camp experience at the Georgia Institute of Technology. The portfolio is designed as a single-page application and demonstrates his proficiency in building modern web applications.
+The GitHub-Pages launched application showcases Kaitlyn Atif's React Portfolio, which contains (6) highlighted projects of this 24-week Full-Stack Developer boot camp experience at the Georgia Institute of Technology. The portfolio is designed as a single-page application and demonstrates proficiency in building modern web applications.
 
 ## The Challenge
 The main objective of this project is to create a single-page application portfolio for a web developer, showcasing their experience and proficiency in building React applications.
@@ -73,7 +73,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## GitHub Repository
 [GitHub Repository](https://github.com/kaitlynatif/React_Portfolio)
-
 
 ## React Portfolio Screenshots:
 
