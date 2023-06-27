@@ -38,7 +38,7 @@ function Portfolio() {
             },
             {
               title: "Random Password Generator",
-              description: "...",
+              description: "A JavaScript application to generate random passwords utilizing selected criteria.",
               imgSrc: Password,
               deployedLink:
                 "https://kaitlynatif.github.io/Random_Password_Generator",
