@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1643417d4f635625aac9",
+    "revision": "e596336e26550501bd80",
     "url": "/React_Portfolio/static/css/main.aafc6e85.chunk.css"
   },
   {
-    "revision": "1643417d4f635625aac9",
-    "url": "/React_Portfolio/static/js/main.a2843a06.chunk.js"
+    "revision": "e596336e26550501bd80",
+    "url": "/React_Portfolio/static/js/main.b4edd81a.chunk.js"
   },
   {
     "revision": "62b34e686dbbee9cedcc",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/media/KaitlynAtifResume.82ab4341.pdf"
   },
   {
-    "revision": "725906ae9d62e5bd46c44b3f75d6fa90",
+    "revision": "c716139d0d17b807ccbf4c4f527e4fb2",
     "url": "/React_Portfolio/index.html"
   }
 ];
