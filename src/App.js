@@ -29,7 +29,7 @@ function App() {
             <Route path="/React_Portfolio/resume" element={<Resume />} />
           </Routes>
         </div>
-        <Footer />
+        <Footer/>
       </Router>
     </div>
   );

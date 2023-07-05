@@ -124,7 +124,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 3. Incorporate testimonials from previous clients or employers.
 4. Integrate a dark mode toggle for better accessibility and user experience.
 
-## License & Copyright ©
+## License
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
 
