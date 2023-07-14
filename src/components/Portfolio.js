@@ -6,6 +6,7 @@ import Weather from "../images/Weather.png";
 import TechBlog from "../images/TechBlog.png";
 import Password from "../images/Password.png";
 import NoteTaker from "../images/NoteTaker.png";
+import ReservationApp from "../images/ReservationApp.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../style/Portfolio.css";
 
@@ -19,8 +20,17 @@ function Portfolio() {
         <div className="row">
           {[
             {
+              title: "Salt Your Food",
+              description: "MERN Stack Restaurant Reservation App.",
+              imgSrc: ReservationApp,
+              deployedLink:
+                "https://obscure-beach-63742.herokuapp.com",
+              githubLink:
+                "https://github.com/goldengayle/ReservationApp",
+            },
+            {
               title: "Tech Blog",
-              description: "CMS-Style Model View Controller Blog",
+              description: "CMS-Style Model View Controller Blog.",
               imgSrc: TechBlog,
               deployedLink:
                 "https://obscure-beach-63742.herokuapp.com",
